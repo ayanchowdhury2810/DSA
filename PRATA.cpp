@@ -1,5 +1,6 @@
 // PRATA - Roti Prata
 // https://www.spoj.com/problems/PRATA/
+// USING BINARY SEARCH
 
 #include<iostream>
 
